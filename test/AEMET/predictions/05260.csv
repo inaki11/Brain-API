@@ -1,0 +1,24 @@
+datetime,rain_00-24,rain_00-12,rain_12-24,rain_00-06,rain_06-12,rain_12-18,rain_18-24,sky_00-24,sky_00-12,sky_12-24,sky_00-06,sky_06-12,sky_12-18,sky_18-24,wind_00-24,wind_00-12,wind_12-24,wind_00-06,wind_06-12,wind_12-18,wind_18-24,temp_6,temp_12,temp_18,temp_24,temp_max,temp_min,hum_6,hum_12,hum_18,hum_24
+2023-10-04,0,0,0,0,0,0,0,Poco nuboso,Poco nuboso,Despejado,Poco nuboso,Poco nuboso,Despejado,Despejado,15,15,15,10,15,10,10,11,26,21,13,27,10,60,25,40,60
+2023-10-06,0,0,0,0,0,0,0,Despejado,Despejado,Despejado,Despejado,Despejado,Despejado,Poco nuboso,15,15,15,10,15,10,10,11,26,20,12,27,10,60,25,30,35
+2023-10-17,100,100,100,15,100,100,100,Intervalos nubosos con lluvia,Intervalos nubosos con lluvia,Nuboso con lluvia,Muy nuboso,Intervalos nubosos con lluvia escasa,Nuboso con lluvia,Cubierto con lluvia,35,35,35,25,35,35,25,11,14,14,12,16,10,85,70,80,95
+2023-10-19,100,100,100,100,100,100,100,Cubierto con lluvia,Cubierto con lluvia,Cubierto con tormenta,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,Cubierto con tormenta,25,25,25,25,25,25,30,10,12,11,6,14,5,95,90,95,95
+2023-10-20,100,100,100,90,100,100,80,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia escasa,Cubierto con lluvia escasa,25,30,25,30,25,25,20,5,7,7,4,9,4,100,80,95,100
+2023-10-21,10,0,5,0,0,5,0,Intervalos nubosos,Nuboso,Intervalos nubosos,Niebla ,Nuboso,Poco nuboso,Poco nuboso,15,15,15,15,15,0,10,2,10,7,2,11,2,100,55,90,100
+2023-10-22,95,35,95,10,35,80,95,Muy nuboso con lluvia,Nuboso,Muy nuboso con lluvia,Nuboso,Nuboso,Muy nuboso con lluvia,Cubierto con lluvia,25,25,25,10,25,20,25,5,10,8,11,12,2,90,55,80,85
+2023-10-23,100,70,95,60,20,90,75,Nuboso con lluvia,Nuboso con lluvia,Nuboso con tormenta,Cubierto con lluvia escasa,Nuboso,Nuboso con tormenta,Cubierto con lluvia,15,15,15,10,15,10,10,5,11,8,6,12,4,95,65,90,90
+2023-10-24,100,35,95,0,30,90,25,Cubierto con lluvia,Cubierto,Cubierto con lluvia,Niebla ,Cubierto,Cubierto con lluvia escasa,Niebla ,25,25,25,10,25,25,20,2,9,8,8,10,2,100,65,85,95
+2023-10-25,10,5,5,0,0,0,5,Muy nuboso,Muy nuboso,Muy nuboso,Niebla ,Muy nuboso,Niebla ,Niebla ,20,20,20,20,20,20,25,8,12,10,9,13,8,100,75,90,90
+2023-10-26,100,90,100,5,90,100,10,Muy nuboso con lluvia,Cubierto con lluvia,Muy nuboso con lluvia,Niebla ,Cubierto con lluvia escasa,Muy nuboso con lluvia,Niebla ,40,40,40,30,40,25,15,12,12,9,5,13,5,90,85,90,90
+2023-10-27,100,35,90,5,30,80,35,Cubierto con lluvia escasa,Cubierto,Cubierto con lluvia escasa,Nuboso,Niebla ,Cubierto con lluvia escasa,Niebla ,25,25,25,20,25,25,15,4,9,7,7,9,4,90,80,95,100
+2023-10-28,100,45,75,5,35,45,40,Muy nuboso con lluvia escasa,Muy nuboso,Muy nuboso con lluvia escasa,Niebla ,Muy nuboso,Muy nuboso con lluvia escasa,Niebla ,30,30,30,25,30,20,35,8,11,10,9,12,6,95,75,80,95
+2023-10-29,100,100,100,45,100,95,75,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,Cubierto,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,30,35,30,20,30,20,15,9,12,9,8,12,8,85,70,90,100
+2023-10-30,95,95,15,90,45,15,0,Nuboso con lluvia,Nuboso con lluvia,Nuboso,Muy nuboso con lluvia,Nuboso,Nuboso,Cubierto,20,20,20,15,20,20,10,6,8,5,3,9,3,100,70,95,100
+2023-10-31,0,0,0,0,0,0,0,Muy nuboso,Muy nuboso,Muy nuboso,Cubierto,Muy nuboso,Muy nuboso,Poco nuboso,5,15,5,0,5,0,15,2,9,5,2,10,1,100,60,100,100
+2023-11-01,95,80,25,30,55,5,15,Cubierto con lluvia escasa,Cubierto con lluvia escasa,Cubierto,Niebla ,Cubierto con lluvia escasa,Niebla ,Niebla ,25,30,25,30,25,25,40,7,11,10,10,12,3,95,75,90,85
+2023-11-02,100,100,100,90,100,100,90,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,Cubierto con nieve,40,40,40,35,40,30,25,11,7,1,2,11,1,90,75,100,100
+2023-11-03,100,100,95,100,100,95,35,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia escasa,Niebla ,35,35,35,30,35,25,25,3,5,5,5,7,2,100,95,95,95
+2023-11-04,100,80,100,5,75,100,85,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,Niebla ,Cubierto con lluvia escasa,Cubierto con lluvia,Cubierto con lluvia,40,40,40,40,40,35,30,8,11,6,4,12,4,95,85,95,100
+2023-11-05,100,90,80,55,45,45,35,Muy nuboso con lluvia escasa,Muy nuboso con lluvia escasa,Cubierto con lluvia escasa,Muy nuboso con lluvia escasa,Bruma,Cubierto con lluvia escasa,Niebla ,20,35,20,25,20,20,15,3,7,4,3,7,3,95,80,95,100
+2023-11-06,50,15,15,0,0,10,0,Muy nuboso con lluvia escasa,Cubierto,Nuboso con lluvia escasa,Niebla ,Cubierto,Nuboso con nieve escasa,Niebla ,15,25,15,15,15,10,15,1,5,2,0,6,0,100,75,90,100
+2023-11-07,100,50,55,0,50,55,0,Muy nuboso con nieve,Nuboso,Cubierto con lluvia escasa,Nuboso,Niebla ,Cubierto con lluvia escasa,Bruma,15,15,15,15,15,10,0,-1,5,2,0,5,-2,80,85,100,100

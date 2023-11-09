@@ -1,0 +1,4 @@
+- experimentos clasificador
+En la carpeta datos estan datos de consumos eléctricos de empresas que fueron en su mayoría encontrados en kaggle debido a la falta de datos por parte del cliente
+
+- Heurísticas es el código para caracterizar de forma "artesanal" el perfil de consumo 

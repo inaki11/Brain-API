@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  web:
+    build: ./django
+    command: gunicorn servidor_brain.wsgi:application --bind 0.0.0.0:8000
+    volumes:
+      - ./django:/usr/src/app/
+    expose:
+      - 8000
+    env_file:
+      - ./.env.dev
+      
+  nginx:
+    build: ./nginx
+    ports:
+      - 1337:80
+      - 1338:443
+    depends_on:
+      - web

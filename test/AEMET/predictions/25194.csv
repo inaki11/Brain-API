@@ -1,0 +1,22 @@
+datetime,rain_00-24,rain_00-12,rain_12-24,rain_00-06,rain_06-12,rain_12-18,rain_18-24,sky_00-24,sky_00-12,sky_12-24,sky_00-06,sky_06-12,sky_12-18,sky_18-24,wind_00-24,wind_00-12,wind_12-24,wind_00-06,wind_06-12,wind_12-18,wind_18-24,temp_6,temp_12,temp_18,temp_24,temp_max,temp_min,hum_6,hum_12,hum_18,hum_24
+2023-10-06,0,0,0,0,0,0,0,Despejado,Despejado,Despejado,Despejado,Despejado,Despejado,Despejado,5,5,20,0,5,20,10,14,28,23,17,30,13,100,35,75,100
+2023-10-17,35,5,20,0,5,15,0,Intervalos nubosos,Nubes altas,Intervalos nubosos,Muy nuboso,Nubes altas,Intervalos nubosos,Muy nuboso,15,15,20,0,15,20,15,12,22,18,15,23,11,100,70,95,100
+2023-10-18,95,85,25,25,75,25,0,Intervalos nubosos con lluvia escasa,Intervalos nubosos con lluvia escasa,Intervalos nubosos,Nuboso,Intervalos nubosos con lluvia escasa,Intervalos nubosos,Poco nuboso,15,20,15,20,15,5,10,15,23,18,15,24,13,100,70,75,80
+2023-10-19,100,85,100,15,80,100,100,Nuboso con lluvia,Nuboso con lluvia,Nuboso con lluvia,Intervalos nubosos,Nuboso con lluvia escasa,Nuboso con lluvia,Cubierto con lluvia,5,15,35,15,5,35,15,13,17,16,15,20,13,85,85,95,85
+2023-10-20,95,90,0,90,0,0,0,Nuboso con lluvia,Muy nuboso con lluvia,Poco nuboso,Cubierto con lluvia,Muy nuboso,Poco nuboso,Bruma,35,35,35,25,35,25,30,10,16,14,10,18,9,100,75,85,100
+2023-10-21,0,0,0,0,0,0,0,Despejado,Despejado,Despejado,Despejado,Despejado,Despejado,Poco nuboso,30,30,30,25,30,15,10,6,15,12,8,16,6,100,65,50,70
+2023-10-22,80,0,80,0,0,45,75,Intervalos nubosos con lluvia,Poco nuboso,Nuboso con lluvia,Poco nuboso,Poco nuboso,Nuboso,Nuboso con lluvia,10,10,15,0,10,15,40,5,16,14,12,17,5,85,45,70,85
+2023-10-23,90,80,30,70,20,0,25,Muy nuboso con lluvia escasa,Muy nuboso con lluvia escasa,Nuboso,Muy nuboso con lluvia escasa,Muy nuboso,Nuboso,Cubierto,20,35,20,15,20,10,5,14,21,15,13,21,11,100,55,70,85
+2023-10-24,90,85,5,85,0,0,5,Intervalos nubosos con lluvia escasa,Nuboso con lluvia escasa,Despejado,Muy nuboso con lluvia escasa,Nuboso,Despejado,Poco nuboso,30,30,30,15,30,25,20,9,17,13,11,17,9,100,70,65,80
+2023-10-25,0,0,0,0,0,0,0,Poco nuboso,Muy nuboso,Poco nuboso,Cubierto,Muy nuboso,Poco nuboso,Nubes altas,35,35,35,10,35,20,20,9,18,15,12,19,8,95,55,70,90
+2023-10-26,100,30,95,0,30,90,55,Muy nuboso con lluvia,Muy nuboso,Muy nuboso con lluvia,Muy nuboso,Muy nuboso,Muy nuboso con lluvia,Muy nuboso con lluvia,20,20,30,10,20,30,20,11,19,16,11,20,10,100,65,75,100
+2023-10-27,0,0,0,0,0,0,0,Poco nuboso,Poco nuboso,Despejado,Bruma,Poco nuboso,Despejado,Despejado,35,35,35,25,35,15,10,9,15,14,10,17,8,100,60,60,80
+2023-10-28,0,0,0,0,0,0,0,Poco nuboso,Despejado,Poco nuboso,Despejado,Despejado,Poco nuboso,Poco nuboso,25,25,25,10,25,0,5,8,16,13,11,17,7,90,55,70,75
+2023-10-29,0,0,0,0,0,0,0,Nubes altas,Muy nuboso,Nubes altas,Nuboso,Muy nuboso,Nubes altas,Nubes altas,15,15,15,10,15,15,15,10,19,14,11,20,9,75,45,80,100
+2023-10-30,85,65,70,0,65,70,5,Muy nuboso con lluvia,Muy nuboso con lluvia,Muy nuboso con lluvia,Muy nuboso,Muy nuboso con lluvia escasa,Muy nuboso con lluvia escasa,Niebla ,10,20,25,0,10,25,25,12,17,11,8,17,8,100,65,100,100
+2023-10-31,0,0,0,0,0,0,0,Nubes altas,Poco nuboso,Nubes altas,Despejado,Poco nuboso,Nubes altas,Nubes altas,20,20,20,15,20,0,5,6,14,11,9,15,5,95,65,60,75
+2023-11-01,25,0,25,0,0,10,10,Intervalos nubosos,Despejado,Intervalos nubosos,Nuboso,Despejado,Intervalos nubosos,Intervalos nubosos,25,25,25,15,25,10,15,6,15,11,12,16,5,95,55,70,80
+2023-11-02,100,100,80,20,100,80,0,Cubierto con lluvia,Cubierto con lluvia,Cubierto con lluvia,Muy nuboso,Cubierto con lluvia,Cubierto con lluvia escasa,Nuboso,40,40,40,30,40,35,30,14,15,10,5,18,5,75,85,75,90
+2023-11-03,10,5,0,0,0,0,0,Intervalos nubosos,Intervalos nubosos,Poco nuboso,Despejado,Poco nuboso,Poco nuboso,Poco nuboso,45,45,45,30,45,30,20,5,12,8,6,13,4,85,65,75,85
+2023-11-05,0,0,0,0,0,0,0,Despejado,Despejado,Despejado,Despejado,Despejado,Despejado,Poco nuboso,30,30,30,25,30,15,15,7,14,11,7,16,6,85,70,75,85
+2023-11-06,0,0,0,0,0,0,0,Despejado,Despejado,Despejado,Despejado,Despejado,Despejado,Despejado,30,30,30,20,30,15,15,4,12,8,4,13,3,100,55,45,80

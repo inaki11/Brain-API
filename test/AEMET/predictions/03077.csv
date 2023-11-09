@@ -1,0 +1,24 @@
+datetime,rain_00-24,rain_00-12,rain_12-24,rain_00-06,rain_06-12,rain_12-18,rain_18-24,sky_00-24,sky_00-12,sky_12-24,sky_00-06,sky_06-12,sky_12-18,sky_18-24,wind_00-24,wind_00-12,wind_12-24,wind_00-06,wind_06-12,wind_12-18,wind_18-24,temp_6,temp_12,temp_18,temp_24,temp_max,temp_min,hum_6,hum_12,hum_18,hum_24
+2023-10-04,0,0,0,0,0,0,0,Poco nuboso,Poco nuboso,Poco nuboso,Nuboso,Poco nuboso,Poco nuboso,Poco nuboso,10,10,10,5,10,10,5,16,27,23,18,28,16,95,50,70,95
+2023-10-06,0,0,0,0,0,0,0,Despejado,Despejado,Despejado,Despejado,Despejado,Despejado,Niebla ,10,10,10,0,10,10,0,15,30,24,20,30,15,65,35,70,95
+2023-10-17,0,0,0,0,0,0,0,Poco nuboso,Muy nuboso,Poco nuboso,Niebla ,Muy nuboso,Poco nuboso,Despejado,10,10,10,0,10,5,0,17,26,22,20,27,16,90,50,65,80
+2023-10-19,100,40,100,0,40,55,100,Intervalos nubosos con lluvia,Intervalos nubosos,Intervalos nubosos con lluvia,Poco nuboso,Intervalos nubosos,Intervalos nubosos con lluvia,Muy nuboso con lluvia,15,15,15,5,15,10,20,17,24,21,17,26,16,70,50,70,75
+2023-10-20,65,60,15,60,5,15,0,Intervalos nubosos con lluvia escasa,Intervalos nubosos con lluvia escasa,Intervalos nubosos,Nuboso con lluvia escasa,Poco nuboso,Intervalos nubosos,Despejado,30,30,30,25,30,20,20,14,21,18,14,21,13,65,45,55,65
+2023-10-21,0,0,0,0,0,0,0,Poco nuboso,Poco nuboso,Despejado,Poco nuboso,Poco nuboso,Despejado,Poco nuboso,20,20,20,15,20,10,10,11,19,16,11,20,11,70,40,45,60
+2023-10-22,50,40,20,5,35,20,5,Muy nuboso,Intervalos nubosos,Muy nuboso,Poco nuboso,Intervalos nubosos,Muy nuboso,Nuboso,20,20,20,5,20,15,5,12,20,19,16,22,10,65,55,80,80
+2023-10-23,35,5,30,5,0,10,20,Intervalos nubosos,Poco nuboso,Intervalos nubosos,Poco nuboso,Poco nuboso,Intervalos nubosos,Muy nuboso,10,10,10,5,10,10,5,14,24,20,16,25,13,80,40,70,75
+2023-10-24,50,25,25,25,0,0,20,Intervalos nubosos,Intervalos nubosos,Intervalos nubosos,Nuboso,Despejado,Despejado,Nuboso,25,25,25,15,25,20,5,15,21,18,14,22,14,70,35,40,60
+2023-10-25,10,10,0,5,0,0,0,Intervalos nubosos,Intervalos nubosos,Poco nuboso,Intervalos nubosos,Despejado,Poco nuboso,Poco nuboso,25,25,25,10,25,15,30,14,22,21,17,24,13,80,40,45,65
+2023-10-26,0,0,0,0,0,0,0,Poco nuboso,Poco nuboso,Poco nuboso,Nubes altas,Poco nuboso,Poco nuboso,Nubes altas,25,25,25,0,25,20,5,15,25,22,19,26,15,80,40,50,65
+2023-10-27,0,0,0,0,0,0,0,Nubes altas,Nubes altas,Poco nuboso,Nubes altas,Nubes altas,Poco nuboso,Despejado,20,20,20,10,20,10,15,16,21,19,15,24,14,55,40,40,55
+2023-10-28,0,0,0,0,0,0,0,Despejado,Despejado,Despejado,Despejado,Despejado,Despejado,Despejado,10,15,10,10,10,10,15,13,22,18,13,24,12,75,35,55,65
+2023-10-29,0,0,0,0,0,0,0,Nubes altas,Poco nuboso,Nubes altas,Despejado,Poco nuboso,Nubes altas,Nubes altas,10,10,10,10,10,0,0,11,23,17,14,24,11,80,30,65,75
+2023-10-30,25,20,10,20,5,10,0,Cubierto,Cubierto,Muy nuboso,Muy nuboso,Cubierto,Muy nuboso,Nubes altas,15,15,20,0,15,20,20,14,23,19,14,25,13,80,40,45,55
+2023-10-31,25,0,25,0,0,10,20,Cubierto,Muy nuboso,Cubierto,Nubes altas,Muy nuboso,Cubierto,Cubierto,0,35,0,10,0,0,0,13,20,17,15,20,11,65,30,55,50
+2023-11-01,10,10,0,10,0,0,0,Intervalos nubosos,Intervalos nubosos,Poco nuboso,Nuboso,Poco nuboso,Poco nuboso,Poco nuboso,20,20,20,10,20,10,10,12,22,19,15,24,11,75,40,50,60
+2023-11-02,10,0,10,0,0,10,0,Intervalos nubosos,Nubes altas,Intervalos nubosos,Poco nuboso,Nubes altas,Intervalos nubosos,Poco nuboso,25,25,35,10,25,35,60,15,24,20,13,27,12,70,45,55,50
+2023-11-03,0,0,0,0,0,0,0,Nubes altas,Poco nuboso,Nubes altas,Despejado,Poco nuboso,Nubes altas,Poco nuboso,30,55,30,55,30,20,10,11,18,16,12,19,11,55,40,55,65
+2023-11-04,0,0,0,0,0,0,0,Nuboso,Muy nuboso,Nuboso,Poco nuboso,Muy nuboso,Nuboso,Poco nuboso,15,40,15,40,15,10,10,13,21,19,17,23,12,65,40,45,70
+2023-11-05,0,0,0,0,0,0,0,Despejado,Despejado,Despejado,Nuboso,Despejado,Despejado,Despejado,20,20,20,5,20,20,20,13,20,17,13,21,12,55,30,40,60
+2023-11-06,0,0,0,0,0,0,0,Despejado,Despejado,Despejado,Despejado,Despejado,Despejado,Despejado,20,25,20,25,20,15,20,11,18,14,10,19,10,70,35,40,55
+2023-11-07,0,0,0,0,0,0,0,Despejado,Despejado,Despejado,Despejado,Despejado,Despejado,Despejado,15,15,15,15,15,10,15,8,18,14,10,19,8,65,30,30,70
